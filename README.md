@@ -42,6 +42,3 @@ A simple Python mini project where you play Snake-Water-Gun against the computer
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/snake-water-gun.git
-3. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/snake-water-gun.git
